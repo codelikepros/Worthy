@@ -716,3 +716,15 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+
+
+/******************Haider added *************************/
+.image-box .overlay-container {
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+.image-box a.btn {
+    border-radius: 0px 0px 10px 10px;
+}
