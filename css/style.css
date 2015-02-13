@@ -728,4 +728,7 @@ textarea {
 
 .image-box a.btn {
     border-radius: 0px 0px 10px 10px;
+    background-color: rgba(14, 51, 76, 1); 
+    border-color: rgba(14, 51, 76, 1);
+    color: rgb(215, 222, 245);
 }
